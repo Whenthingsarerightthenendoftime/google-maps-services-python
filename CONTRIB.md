@@ -1,3 +1,5 @@
+
+
 How to contribute
 =================
 
@@ -11,7 +13,7 @@ Keep in mind that before we can accept any pull requests we have to jump
 through a couple of legal hurdles, primarily a Contributor License Agreement
 (CLA):
 
-- **If you are an individual writing original source code**
+- **If you are an individual writing source code**
   and you're sure you own the intellectual property,
   then you'll need to sign an
   [individual CLA](http://code.google.com/legal/individual-cla-v1.0.html).
